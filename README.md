@@ -1,1 +1,1 @@
-# corona virus
+# corona-virus
